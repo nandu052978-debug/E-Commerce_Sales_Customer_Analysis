@@ -1,8 +1,8 @@
 # E-Commerce_Sales_Customer_Analysis
 Project Overview
 This project analyzes e-commerce transactions to understand sales performance, customer behavior, product categories, sales channels, geographic performance, order outcomes and operational KPIs.
-It is designed as a professional Data Analyst trainee portfolio project and demonstrates how raw transaction data can be converted into management-level insights using Excel.
-Dataset note:The dataset is synthetic training data created for portfolio and interview practice. It is not company-confidential or real customer data.
+It demonstrates how raw transaction data can be converted into management-level insights using Excel.
+
 Business Problem
 An e-commerce business wants to answer:
 Which categories generate the most sales and profit?
